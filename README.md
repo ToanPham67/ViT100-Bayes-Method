@@ -354,10 +354,18 @@ print("X_val_100 shape  :", X_val_100.shape)
 ```
 # Output
 ```text
+<p align="center">
+  <img 
+    src="figures/framework.png" 
+    alt="ViT-DFR and Kernel-based Naive Bayes Framework"
+    width="900"
+  >
+</p>
+```
+```text
 X_train_100 shape: (6465, 100)
 X_val_100 shape  : (1632, 100)
 ```
-
 
 ## Bandwidth Estimation
 
